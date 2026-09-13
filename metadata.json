@@ -1,0 +1,6 @@
+{
+  "name": "Akanksha Prajapati Portfolio",
+  "description": "Portfolio of Akanksha Prajapati showcasing AI/ML engineering, autonomous agentic systems, RAG pipelines, and software development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
